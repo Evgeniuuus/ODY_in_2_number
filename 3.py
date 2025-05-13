@@ -42,3 +42,4 @@ plt.ylabel('y')
 plt.title('Метод коллокации')
 plt.grid(True)
 plt.show()
+

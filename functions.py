@@ -31,3 +31,4 @@ def medhod_progonki(a, b, c, d):
 
     return y
 
+
