@@ -30,3 +30,4 @@ def medhod_progonki(a, b, c, d):
         y[i] = alpha[i] * y[i + 1] + beta[i]
 
     return y
+
